@@ -1,0 +1,129 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: Montserrat;
+}
+.top-container{
+  background-color: #4baea0;
+  position: relative;
+  padding-top: 100px;
+  color: #f0c9c9;
+}
+.middle-container{
+  background-color: #b6e6bd;
+  color: #202060;
+}
+.skills{
+  padding: 3.625rem;
+}
+.contact-me{
+  background-color: #b6e6bd;
+  padding-bottom: 3.625rem;
+  position: relative;
+}
+.bottom-container{
+  background-color: #4baea0;
+  padding: 50px 0 20px;
+}
+h1 {
+  margin: 3.625rem auto 0 auto;
+  font-family: Sacramento;
+  font-size: 5.625rem;
+  font-weight: bold;
+}
+
+h2{
+  display: block;
+  margin: 0;
+  font-family: Montserrat;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+h3{
+  margin: 0;
+  font-family: Montserrat;
+}
+p{
+  line-height: 2;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.profile{
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.profile-pic{
+  border-radius: 100%;
+  width:25%;
+  padding: 30px;
+}
+.skill-pic1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill-pic2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px auto;
+}
+.btn {
+  background-color: #b6e6bd;
+  border: solid;
+  border-width: thin;
+  border-radius: 28px;
+  border-color: #202060;
+  text-align: center;
+  font-size: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  padding: 0.6rem;
+  color: #202060;
+}
+.btn:hover {
+  background-color: #b6e6bd;
+  border: solid;
+  color: #f76b8a;
+  text-align: center;
+  border-radius: 28px;
+  font-size: 15px;
+  cursor: pointer;
+  font-weight: bold;
+}
+.contact-icon{
+  height: 3.625rem;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+.contact-icon:hover{
+  height: 4rem;
+  padding: 10px;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+.copyright{
+  font-size: 0.75rem;
+  color: white;
+}
